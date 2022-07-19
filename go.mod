@@ -1,6 +1,6 @@
-module github.com/mattevans/pwned-passwords
+module github.com/WilliamNHarvey/pwned-passwords
 
-go 1.13
+go 1.18
 
 require (
 	github.com/onsi/gomega v1.10.2
